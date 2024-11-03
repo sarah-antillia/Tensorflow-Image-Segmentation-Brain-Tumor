@@ -14,11 +14,6 @@ Please see also our first experiment
 <a href="https://github.com/atlan-antillia/Image-Segmentation-Brain-Tumor">Image-Segmentation-Brain-Tumor
 </a>
 <br>
-<br>
-On our dataset, please refer to <a href="https://github.com/sarah-antillia/Augmentation-CDD-CESM-Brain-Tumor-Segmentation-Dataset">
-Augmentation-CDD-CESM-Brain-Tumor-Segmentation-Dataset
-</a>
-<br>
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
 As shown below, the inferred masks look similar to the ground truth masks. <br>
@@ -46,7 +41,6 @@ As shown below, the inferred masks look similar to the ground truth masks. <br>
 <td><img src="./projects/TensorflowSlightlyFlexibleUNet/Brain-Tumor/mini_test/masks/TCGA_CS_5393_19990606_12.jpg" width="320" height="auto"></td>
 <td><img src="./projects/TensorflowSlightlyFlexibleUNet/Brain-Tumor/mini_test_output/TCGA_CS_5393_19990606_12.jpg" width="320" height="auto"></td>
 </tr>
-
 </table>
 
 <hr>
