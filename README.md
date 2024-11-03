@@ -7,12 +7,12 @@ the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentat
 LGG-MRI-Brain-Tumor-ImageMask-Dataset.zip</a>, which was derived by us from  
 <a href="https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation">
 Brain MRI segmentation
-</a>
+</a>.
 <br>
 <br>
 Please see also our first experiment 
 <a href="https://github.com/atlan-antillia/Image-Segmentation-Brain-Tumor">Image-Segmentation-Brain-Tumor
-</a>
+</a>.
 <br>
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
